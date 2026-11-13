@@ -1,0 +1,161 @@
+{
+  "name": "Atul Singh",
+  "role": "Full Stack Developer",
+  "location": "Pune, India",
+  "email": "asatulsingh20@gmail.com",
+  "phone": "+91 8290033993",
+  "headline": "Thoughtful interfaces.\nReliable systems.",
+  "intro": "I build web applications from the first interaction to the last database query. Currently crafting software for financial services at Barclays.",
+  "about": "I'm a full stack developer with 3 years of experience designing, developing, and deploying scalable web applications in financial services. I work across React and TypeScript frontends, Node.js and Spring Boot services, and the databases that connect them. I care about accessible experiences, clean code, and systems that hold up in production.",
+  "socials": [
+    { "label": "GitHub", "url": "https://github.com/SirAtul1204" },
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/in/siratul1204/" }
+  ],
+  "stats": [
+    { "value": "3+", "label": "Years of experience" },
+    { "value": "30k+", "label": "Monthly users served" },
+    { "value": "9.48", "label": "B.Tech CGPA / 10" }
+  ],
+  "projects": [
+    {
+      "slug": "paradish",
+      "name": "Paradish",
+      "category": "Full stack",
+      "eyebrow": "RESTAURANT OPERATIONS",
+      "description": "One place to run the restaurant. Orders, invoices, people, and inventory — connected.",
+      "summary": "A restaurant management platform bringing daily operations into one system, with a responsive frontend and backend APIs backed by PostgreSQL.",
+      "technologies": ["Next.js", "TypeScript", "PostgreSQL", "REST APIs"],
+      "features": [
+        "Order management and invoice generation",
+        "Employee administration and inventory tracking",
+        "Role-based access control and data isolation",
+        "Responsive frontend with scalable backend APIs"
+      ],
+      "github": "https://github.com/SirAtul1204/paradish-v3",
+      "visual": "restaurant"
+    },
+    {
+      "slug": "appointment-booking",
+      "name": "Appointment Booking System",
+      "category": "Enterprise",
+      "eyebrow": "BUILT AT BARCLAYS",
+      "description": "Making it easier for customers and advisors to find the right time to connect.",
+      "summary": "An appointment booking system serving over 30,000 active monthly users across mobile and web platforms. Developed as part of my work at Barclays.",
+      "technologies": ["React", "TypeScript", "Spring Boot", "PostgreSQL"],
+      "features": [
+        "Intuitive customer booking interfaces",
+        "Advisor scheduling tools across mobile and web",
+        "Optimized database queries and data modeling",
+        "Accessible, reusable React interfaces"
+      ],
+      "github": "",
+      "visual": "booking"
+    }
+  ],
+  "experience": [
+    {
+      "company": "Barclays",
+      "role": "Fullstack Software Engineer · BA 4",
+      "period": "Jul 2023 — Present",
+      "location": "Pune, Maharashtra",
+      "highlights": [
+        "Developed an appointment booking system serving 30,000+ active monthly users with React, TypeScript, and Spring Boot.",
+        "Designed and maintained PostgreSQL and Oracle databases for high-concurrency environments.",
+        "Built RESTful services, authentication flows, validation, and integrations with Node.js, Nest.js, Spring Boot, and Java.",
+        "Implemented unit and integration tests and managed CI/CD across staging, UAT, and production."
+      ]
+    },
+    {
+      "company": "BITCS",
+      "role": "Fullstack Software Developer Intern",
+      "period": "Jan 2022 — Feb 2023",
+      "location": "Noida, Uttar Pradesh",
+      "highlights": [
+        "Developed full-stack applications including restaurant management systems and e-commerce mobile applications.",
+        "Designed RESTful APIs and integrated third-party services across frontend and backend systems.",
+        "Worked with React, Next.js, Flutter, Spring Boot, Flask, Node.js, and Terraform."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        "React",
+        "TypeScript",
+        "Next.js",
+        "JavaScript",
+        "Vue.js",
+        "Redux Toolkit",
+        "HTML & CSS"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        "Node.js",
+        "Express",
+        "Nest.js",
+        "Python",
+        "Flask",
+        "Spring Boot",
+        "Java",
+        "C#",
+        "Ruby (basic)"
+      ]
+    },
+    {
+      "category": "Data & infrastructure",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Redis",
+        "Cassandra (basic)",
+        "AWS",
+        "GCP",
+        "Terraform",
+        "Docker (basic)",
+        "CI/CD"
+      ]
+    },
+    {
+      "category": "Engineering practices",
+      "items": [
+        "System design",
+        "REST API design",
+        "Unit testing",
+        "Integration testing",
+        "Regression testing",
+        "JUnit",
+        "Vitest",
+        "Code reviews",
+        "Agile / Scrum",
+        "Data structures & algorithms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "SRM Institute of Science and Technology",
+      "degree": "B.Tech · Computer Science & Engineering",
+      "detail": "Specialization in Cloud Computing · CGPA 9.48 / 10",
+      "year": "2023",
+      "location": "Chennai, Tamil Nadu"
+    },
+    {
+      "school": "BSN Academy",
+      "degree": "Senior School Certificate · Class XII",
+      "detail": "76.4%",
+      "year": "2018",
+      "location": "Kota, Rajasthan"
+    },
+    {
+      "school": "DAV Public School",
+      "degree": "Secondary School Examination · Class X",
+      "detail": "CGPA 10 / 10",
+      "year": "2016",
+      "location": "Pandavpara, Chhattisgarh"
+    }
+  ]
+}
